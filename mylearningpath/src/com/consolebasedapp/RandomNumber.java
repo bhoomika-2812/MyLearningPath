@@ -9,7 +9,7 @@ public class RandomNumber {
 		Scanner sc = new Scanner(System.in);
 
 		Random rd = new Random();
-		int rn = rd.nextInt(100);
+		int rn = rd.nextInt(101);
 		int n;
 		int i = 1;
 		do {
